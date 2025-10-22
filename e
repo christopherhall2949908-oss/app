@@ -24,7 +24,7 @@
   </style>
 </head>
 <body>
-  <h1>🐍 Snake Game</h1>
+  <h1> Snake Game</h1>
   <canvas id="gameCanvas" width="400" height="400"></canvas>
   <p>Use arrow keys to move. Don’t hit the walls or yourself!</p>
 
